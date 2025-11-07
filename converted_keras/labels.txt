@@ -1,0 +1,20 @@
+0 drink
+1 F*** you
+2 food
+3 hello
+4 i love you
+5 no
+6 ok
+7 you're welcome
+8 peace
+9 please
+10 sorry
+11 thank you
+12 yes
+13 good bye
+14 happy
+15 sad
+16 angry
+17 hate
+18 good luck
+19 live long and prosper
